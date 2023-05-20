@@ -14,7 +14,7 @@ The Automated Student Attendance System is a Python-based application that utili
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/automated-attendance-system.git
+git clone https://github.com/tanumay-deb/Automated-Student-Attendance.git
 ```
 
 2. Install the required Python libraries:
