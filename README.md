@@ -77,5 +77,7 @@ Feel free to modify this README file to suit your project's specific details. Ma
 
 ##Screenshots
 
-![Login Page](https://github.com/tanumay-deb/Automated-Student-Attendance/assets/61971733/bc715108-d509-439b-8f67-21813ae1f3ea)
 ![](Screenshots/Login%20Page.png)
+![](Screenshots/attendance%20report%20by%20name.png)
+![](Screenshots/manual%20attendance.png)
+View the rest of the screenshots in the folder
