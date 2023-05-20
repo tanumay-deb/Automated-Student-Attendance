@@ -77,6 +77,5 @@ Feel free to modify this README file to suit your project's specific details. Ma
 
 ##Screenshots
 
-Screenshots/Login Page.png
-![image](Screenshots/Login Page.png)
-![image](https://github.com/tanumay-deb/Automated-Student-Attendance/blob/main/Screenshots/Login%20Page.png)
+![Login Page](https://github.com/tanumay-deb/Automated-Student-Attendance/assets/61971733/bc715108-d509-439b-8f67-21813ae1f3ea)
+![](Screenshots/Login%20Page.png)
